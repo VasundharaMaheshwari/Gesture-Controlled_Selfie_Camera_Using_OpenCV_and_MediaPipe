@@ -2,6 +2,15 @@
 
 Link to documentation --> https://drive.google.com/drive/folders/1GqKcEeeXoLldYXy0i9HamRYYdA-RvM2F?usp=sharing
 
+Team Members of the Project:
+1. Vasundhara Maheshwari
+   Profile Links:
+   - https://github.com/VasundharaMaheshwari
+   - https://www.linkedin.com/in/vasundhara-m-2point0/
+2. Krish Yagyik
+   Profile Links:
+   - https://www.linkedin.com/in/krish-yagyik-a66389265/
+
 About:
 -----------------------------------------------------------------------------------------------------------------
 Embarked on a revolutionary learning journey with our creation: Prototype Gesture-Controlled Selfie Camera. We've harnessed OpenCV and MediaPipe to fashion a tool that not only captures milestones but also serves as a tangible chronicle of our unique learning approach and growth.
